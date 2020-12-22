@@ -1,0 +1,42 @@
+body, html {
+    height: 100%;
+}
+  
+.bg { 
+    /* The image used */
+    background-image: url("./IMG-1201.jpg");
+  
+    /* Full height */
+    height: 100%; 
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.container {
+    width: 60%;
+    min-width: 430px;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-left: 20px;
+    margin-top: 60px;
+    margin-right: auto; 
+    margin-bottom: 60px;
+    margin-left: 40px;
+}
+
+.footer {
+    text-align: end;
+    text-align: center;
+}
+
+nav {
+    margin-bottom: 50px;
+}
+
+.navbar-brand {
+    font-weight: bold;
+}
